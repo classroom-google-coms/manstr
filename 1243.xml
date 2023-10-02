@@ -12,7 +12,7 @@
     <link rel="shortcut icon" href="https://cdn.jsdelivr.net/gh/classroom-google-coms/manstr@main/TemplateData/favicon.ico">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/classroom-google-coms/manstr@main/TemplateData/style.css">
     <script src="https://cdn.jsdelivr.net/gh/classroom-google-coms/manstr@main/TemplateData/UnityProgress.js"></script>
-    <script src="https://github.com/classroom-google-coms/manstr/blob/main/Build/UnityLoader.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/classroom-google-coms/manstr@main/Build/UnityLoader.js"></script>
     <script>
         var gameInstance = UnityLoader.instantiate("gameContainer", "https://cdn.jsdelivr.net/gh/classroom-google-coms/manstr@main/Build/MonsterTruckPortStunt.json", {onProgress: UnityProgress});
     </script>

@@ -10,11 +10,11 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>Monster Truck Port Stunt</title>
     <link rel="shortcut icon" href="https://cdn.jsdelivr.net/gh/classroom-google-coms/manstr@main/TemplateData/favicon.ico">
-    <link rel="stylesheet" href="https://github.com/classroom-google-coms/manstr/blob/main/TemplateData/style.css">
-    <script src="https://github.com/classroom-google-coms/manstr/blob/main/TemplateData/UnityProgress.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/classroom-google-coms/manstr@main/TemplateData/style.css">
+    <script src="https://cdn.jsdelivr.net/gh/classroom-google-coms/manstr@main/TemplateData/UnityProgress.js"></script>
     <script src="https://github.com/classroom-google-coms/manstr/blob/main/Build/UnityLoader.js"></script>
     <script>
-        var gameInstance = UnityLoader.instantiate("gameContainer", "https://github.com/classroom-google-coms/manstr/blob/main/Build/MonsterTruckPortStunt.json", {onProgress: UnityProgress});
+        var gameInstance = UnityLoader.instantiate("gameContainer", "https://cdn.jsdelivr.net/gh/classroom-google-coms/manstr@main/Build/MonsterTruckPortStunt.json", {onProgress: UnityProgress});
     </script>
     <style>
         body, html {
